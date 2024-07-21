@@ -4,7 +4,7 @@ This is my first experience with Java.
 I created a text-based story game.
 I wrote this software to learn Java.
 
-[Software Demo Video]((https://youtu.be/X5SqXb16yY4))
+[(https://youtu.be/X5SqXb16yY4)]
 
 # Development Environment
 
