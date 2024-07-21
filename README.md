@@ -8,7 +8,7 @@ I wrote this software to learn Java.
 
 # Development Environment
 
-JDK, Visual Studio Code
+JDK, Visual Studio Code.
 I used Java programming language.
 
 # Useful Websites
@@ -18,7 +18,6 @@ I used Java programming language.
 - [Web Site Name](https://en.wikipedia.org/wiki/Java_(programming_language))
 
 # Future Work
-
 
 - Add user choice in story(ex. go left or right)
 - Add enemy encounters
