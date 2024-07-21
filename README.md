@@ -14,8 +14,8 @@ I used Java programming language.
 # Useful Websites
 
 
-- [Web Site Name](https://www.w3schools.com/java/default.asp)
-- [Web Site Name](https://en.wikipedia.org/wiki/Java_(programming_language))
+- (https://www.w3schools.com/java/default.asp)
+- (https://en.wikipedia.org/wiki/Java_(programming_language))
 
 # Future Work
 
